@@ -4,8 +4,7 @@ Max/MSP performance patch for "Outlive everything you know"
 Download the "Outlive everything you know" folder and run the enclosed patch. Leave all files in the folder.
 
 Requirements:
-- "Grainflow" package by Christopher Poovey 
-      - (File → Show Package Manager)
+- "Grainflow" package by Christopher Poovey (File → Show Package Manager)
 - Max 8 or later
 
 Performance setup:
