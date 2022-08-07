@@ -1,7 +1,7 @@
 # outlive
 Max/MSP performance patch for "Outlive everything you know"
 
-Download the "Outlive everything you know" folder and run the enclosed patch. Leave all files in the folder.
+Download the repository, move the "Outlive everything you know" folder to where you want to run the patch, and run the enclosed Max patch. Leave all files in the folder.
 
 Requirements:
 - "Grainflow" package by Christopher Poovey (File → Show Package Manager in Max)
